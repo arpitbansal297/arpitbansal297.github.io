@@ -1,7 +1,8 @@
 ---
 layout: page
+permalink: /assets/pdf/CV.pdf
 title: CV
-permalink: /resume
-redirect_to: https://arpitbansal297.github.io/assets/pdf/CV.pdf
 nav: true
+nav_order: 4
+cv_pdf: CV.pdf
 ---
