@@ -1,0 +1,332 @@
+
+# we want to improve the efficiency.
+
+# say 720x720 pixel images.
+# they are 1/8 downsample.
+# 8100 tokens to predict. Can it be improved ?
+# Can we sample again say resample from the first k predictions that I have made? Is it possible to make it faster?
+
+
+
+What are the exact next steps?
+What will we have in each next step?
+
+Say offer letter?
+Say making choice.
+and so on.
+
+Thank you so much for this offer! 
+I’m very excited about the opportunity and appreciate the time you’ve taken to walk me through the details. 
+To make the best decision, I’d like to request until [specific date] 
+to carefully evaluate everything. Would this be possible?
+
+
+current eval - 310M
+Training the foundation model.
+
+TC - 235k (base)
+0.25% ownership 
+Canva and Adobe
+Canva can acquire
+
+184k
+15% bonus
+730k shares
+30k signon bonus
+519k 
+
+
+Tom
+- I have a very important news to share with you.
+I have got my first job offer. 
+(Be very happy)
+It was because of a lotttt of hardwork. I have put on like 25 pound of weight this year.
+Excited to move into another chapter of life!
+
+It is from Google Research - Peyman's team.
+
+I am still waiting to know from Meta, and I will then let you know my final decision.
+
+Now Google is playing the tactic of sign it quickly.
+
+Coming to the next steps, I will register and pay for the winter semester, you don't have to sponsor that.
+And I will be preparing my committee. 
+The winter semester is from Jan 2 to Jan 22. So I am hoping I say pick a date in the third week of Jan13- Jan17
+
+In the meanwhile,
+I will prepare thesis.
+Get more hands on with Matvei to push strongly on the image watermark project.
+
+Google is preference!
+
+
+
+
+Incentive to work hardwork
+I can keep colaborating
+I will try to have folks for internships.
+Will try my best to keep the relationship.
+7 first author papers now, published 5 to tier 1 conference.
+
+
+Jan 13 - Jan17
+Remote
+
+What is the exact difference in work
+- as I understood the pay for Research Engineer is less than Research Scientist, so how is that justified?
+- how is the evaluation different?
+- are the responsibilities different?
+
+Is it possible to move into the role of Research Scientist in future? Has anyone done that before?
+
+What will be the project? and how will I be evaluated?
+What is the scope of career growth?
+Is there a treatment as second hand citizens by the people or by the organization 
+since the responsibilities are same and the role and pay is considered less?
+
+What about papers like say Llama 4? Will I be part of it?
+And are the research engineers added to the papers or not?
+
+thenagpurashok
+hotel0303
+
+
+
+Applied research team
+use the models - computational photography.
+right datasets - right pipepline - real life photography
+models - family of models - on the device
+mobile to server
+infra for eval
+building demo - to show the usecase
+
+camera pipepline
+post capture pipeline
+personalizing things
+how good image quality vs 
+(too good to be true) 
+
+bunch of video (vo model) they did not develop this
+in high image quality
+
+very concrete applications
+team members they have strong 
+in llama you are just part of something big
+while in google there is a very strong applications
+
+image-to-image generation
+video-to-video problem specially for enhancement purposes
+
+different type of backbone
+conditioning
+sampling
+
+mobile/server/api
+Pixel mobile - SuperResZoom 
+Main Camera pipeline - 
+Google Photos - editor (like photo unblur)
+Zoom enhance - zoom the cut out region
+
+
+
+
+365.55
+
+190
+900
+
+
+1.2M
+
+Google what it is and what they know
+184k -> 190k
+730k -> 900k
+and the bonus is 15%
+signon bonus is 30k
+401.6 and 451k
+
+Ask google for 400k stock increase.
+
+
+With Meta
+182k
+550k 
+75k sign-on
+365.5k 
+
+So with meta I loose 200k actually over 4 years
+and what meta thinks is at this point I am losing 400k over 4 years.
+
+
+
+
+Hi! 
+I am a CS PhD candidate, and I am planning to start my job in the first week of February 2025.
+I plan to take the route of pre and post OPT route and want to make sure that I am not missing any deadlines.
+Currently I have only 6 credits of 899 and will have the petition to use 898 to cover up the 12 credit of 899 requirement,
+and my department has told me that the petition can be applied only after I submit my finalized dissertation.
+I basically need help on timing my defense, and petition and when can I apply for pre-graduation OPT.
+
+https://umd.zoom.us/my/bijoyac?pwd=NjBhNUtBbEdZRE9ZWXRpb3ZYQ0I2UT09
+
+
+
+
+
+
+Jia-bin -> wants between 10 - 2:30
+Tianyi more flexible on 10 and 13
+Furong only Mon/Fri and on monday she has 11-noon group meeting
+Wojciech -> early morning 
+
+
+
+migo - nominee
+
+defense date
+just like candidacy
+
+pro quest -> policy manual
+
+checklist link - thesis. 
+thesis overleaf.
+introduction and abstract
+
+reused candidacy slide
+45 mins
+
+ISSS OPT!
+Tom needs to be there.
+
+
+
+513 (jan 27)
+2559
+159
+
+
+https://www.apartments.com/the-grove-garden-apartments-sunnyvale-ca/c5pftyd/
+9 mins from Googleplex.
+4 mins from the nearest grocery place.
+
+https://www.zillow.com/homedetails/650-Alamo-Ct-APT-13-Mountain-View-CA-94043/19516845_zpid/
+5 min from Googleplex.
+2 min from the nearest grocery place.
+
+https://www.zillow.com/homedetails/245-Easy-St-11-Mountain-View-CA-94043/2078804239_zpid/
+4 min from Googleplex.
+3 mins from the nearest grocery place.
+
+
+https://www.caprop.com/listings/detail/db8f9a8c-a84d-458a-9070-7c4f46b7668b#&gid=1379996734&pid=14
+
+
+
+ladera apartments
+4500 very expensive
+
+Avalon Towers on the Peninsula
+3265
+832
+4.6 rating
+extremely close to target
+
+novo apartments
+3300
+653
+3.4 rating
+
+latham apartmentd
+2800
+735
+4.4
+
+palmetto apartments
+2300
+660
+3.4
+
+
+
+
+birch creek
+2800
+800
+3.1
+
+
+california oaks
+Sam called
+2800
+2bhk is available.
+826 sqft 
+2nd floor - (just 1 level)
+no elevator 
+no air conditioning - centralized heating - no centralized cooling
+need to have portable AC. 
+manager and online portal - for emergency.
+1 parking spot
+included washing machine.
+
+
+
+Fayette Townhouse Apartments
+2300
+556
+3.8
+
+
+electricity - 75 to 100
+gas - 5
+internet
+(heating and cooling - pay for electricity)
+
+water
+trash
+sewer
+
+
+UPS
+100$
+
+
+1Z41V8580366257958
+
+1Z41V8580366259287
+
+
+TODO
+
+1. Apply for O1
+2. Apply for EB1
+3. Driving test - give a call/ reply to email.
+4. Marriage Booking and forms.
+5. Setup Bilt
+6. PG&E recurring with bilt?
+7. Passport Renewal
+
+Done
+1. Credit card and address change
+2. Marriage Payment
+3. Xfinity setup
+4. Get some letters from the UMD to show I have completed all my requirements.
+
+
+
+Steps remaining
+
+https://support.google.com/onboarding/answer/14146821
+That is entire workday thing. 
+
+2066241550
+
+
+18007425877
+
+Your Application Reference Number is : 25-2001202346
+
+Passport and its copy
+
+
+
+
